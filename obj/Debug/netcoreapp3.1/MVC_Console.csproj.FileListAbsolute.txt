@@ -1,0 +1,13 @@
+C:\Users\vinixiii\Desktop\2021\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.exe
+C:\Users\vinixiii\Desktop\2021\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.deps.json
+C:\Users\vinixiii\Desktop\2021\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.json
+C:\Users\vinixiii\Desktop\2021\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.runtimeconfig.dev.json
+C:\Users\vinixiii\Desktop\2021\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.dll
+C:\Users\vinixiii\Desktop\2021\MVC_Console\bin\Debug\netcoreapp3.1\MVC_Console.pdb
+C:\Users\vinixiii\Desktop\2021\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csprojAssemblyReference.cache
+C:\Users\vinixiii\Desktop\2021\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfoInputs.cache
+C:\Users\vinixiii\Desktop\2021\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.AssemblyInfo.cs
+C:\Users\vinixiii\Desktop\2021\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.csproj.CoreCompileInputs.cache
+C:\Users\vinixiii\Desktop\2021\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.dll
+C:\Users\vinixiii\Desktop\2021\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.pdb
+C:\Users\vinixiii\Desktop\2021\MVC_Console\obj\Debug\netcoreapp3.1\MVC_Console.genruntimeconfig.cache
